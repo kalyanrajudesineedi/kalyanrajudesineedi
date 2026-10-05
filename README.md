@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm Kalyan Raju Desineedi👋</h1>
 <h3 align="center">💻 Software Engineer • Java Full Stack Developer</h3>
-
+<div style="background-color:#000000; color:#FFD700; padding:30px;">
 <p align="center">
   <a href="#about-me">About</a> •
   <a href="#tech-stack">Tech Stack</a> •
@@ -17,7 +17,23 @@
 - 🎓 Computer Science & Engineering Graduate
 - 💻 Passionate Software Developer
 - ☕ Java Full Stack Developer
+- 💼 Backend Engineering Intern at VassarLabs
 - 🚀 Passionate about solving real-world problems using technology
+</div>
+
+## 💼 Internship Experience
+
+### 🏢 Backend Engineering Intern — VassarLabs
+
+**📍 Hyderabad, India | September 2026 – Present**
+
+* 👨‍💻 Contributing to backend application development and software engineering tasks.
+* 🔧 Working with **Java, Spring Boot, REST APIs, databases, and backend services**.
+* 🚀 Developing and maintaining backend functionality based on project requirements.
+* 🧩 Implementing assigned features and enhancements as part of an iterative development process.
+* 🐛 Debugging, testing, and troubleshooting backend applications to improve reliability and functionality.
+* 🤝 Collaborating with team members to understand requirements and deliver software solutions.
+* 📚 Gaining hands-on experience with professional software development practices, application maintenance, and production-oriented development.
 
 ### 🌱 Currently Learning
 Spring Boot • REST APIs • Microservices • System Design • Docker • AWS Basics
