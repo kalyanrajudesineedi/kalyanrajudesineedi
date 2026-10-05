@@ -124,9 +124,13 @@ I am looking for an opportunity where I can contribute to meaningful software pr
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kalyanrajudesineedi&layout=compact&theme=radical)
 
 
-### 🐍 Contribution Snake
-![Snake animation](https://raw.githubusercontent.com/kalyanrajudesineedi/kalyanrajudesineedi/output/github-contribution-grid-snake.svg)
-
+<h2 align="center">🐍 Contribution Snake</h2>
+<p align="center">
+  <img
+    src="https://raw.githubusercontent.com/kalyanrajudesineedi/kalyanrajudesineedi/output/github-contribution-grid-snake.svg"
+    alt="GitHub Contribution Snake"
+  />
+</p>
 ### ☕ Current Focus
 
 ```
