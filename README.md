@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm Kalyan Raju Desineedi👋</h1>
 <h3 align="center">💻 Software Engineer • Java Full Stack Developer</h3>
-<div style="background-color:#000000; color:#FFD700; padding:30px;">
+
 <p align="center">
   <a href="#about-me">About</a> •
   <a href="#tech-stack">Tech Stack</a> •
@@ -19,7 +19,7 @@
 - ☕ Java Full Stack Developer
 - 💼 Backend Engineering Intern at VassarLabs
 - 🚀 Passionate about solving real-world problems using technology
-</div>
+
 
 ## 💼 Internship Experience
 
@@ -88,6 +88,7 @@ I am looking for an opportunity where I can contribute to meaningful software pr
 
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 
 **Tools**
 
@@ -96,6 +97,8 @@ I am looking for an opportunity where I can contribute to meaningful software pr
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
+![Spring Tool Suite](https://img.shields.io/badge/-Spring%20Tool%20Suite-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 
 ### ⚡ My Skills
 
@@ -106,6 +109,7 @@ I am looking for an opportunity where I can contribute to meaningful software pr
 | ⚛ React | ⭐⭐⭐⭐ |
 | 🍃 MongoDB | ⭐⭐⭐⭐ |
 | 🐬 MySQL | ⭐⭐⭐⭐⭐ |
+| 🐘 PostgreSQL | ⭐⭐⭐⭐ |
 | 🌐 HTML/CSS | ⭐⭐⭐⭐⭐ |
 | ⚡ JavaScript | ⭐⭐⭐⭐ |
 | 🔧 Git & GitHub | ⭐⭐⭐⭐⭐ |
@@ -126,13 +130,14 @@ I am looking for an opportunity where I can contribute to meaningful software pr
 ### ☕ Current Focus
 
 ```
-Java                 ██████████████████░░░░  90%
-Spring Boot          █████████████████░░░░░  80%
-JavaScript           ██████████████████░░░░  90%
-React                █████████████████░░░░░  80%
-Docker               ████████████████░░░░░░  70%
-AWS                  ████████████████░░░░░░  70%
-Problem Solving      ██████████████████░░░░  90%
+☕ Java                  ██████████████████░░░░  90%
+🌱 Spring Boot          █████████████████░░░░░  80%
+⚡ JavaScript            ██████████████████░░░░  90%
+⚛ React                 █████████████████░░░░░  80%
+🐳 Docker               ████████████████░░░░░░  70%
+🏗 System Design        ████████████████░░░░░░  70%
+Problem Solving         ██████████████████░░░░  90%
+
 ```
 
 🚀 *"Learning Never Stops."*
@@ -195,18 +200,6 @@ Features: Image-Based Disease Detection • Picture Upload & Analysis • Early 
 - 🏅 Problem Solving Certification	GeeksforGeeks
 - 🏅 Passionate Problem Solver
 
-
-## 📚 Currently Learning
-
-| Technology | Progress |
-|---|---|
-| ☕ Core Java | ██████████ 100% |
-| 🌱 Spring Boot | ████████░░ 80% |
-| ⚛ React | ████████░░ 80% |
-| 🍃 MongoDB | █████████░ 90% |
-| 🐳 Docker | ██████░░░░ 60% |
-| ☁ AWS | █████░░░░░ 50% |
-| 🏗 System Design | ██████░░░░ 60% |
 
 ## 🌍 Open Source Goals
 - ✅ Contribute to Open Source Projects
