@@ -227,8 +227,7 @@ I'm always open to collaborating on exciting projects, discussing technology, or
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kalyanraju-desineedi)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kalyanrajudesineedi)
 
-**Portfolio:** Coming Soon 🚀
-**Portfolio:** [![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=netlify&logoColor=white)](https://kalyan-raju.netlify.app/)
+🚀**Portfolio:** [![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=netlify&logoColor=white)](https://kalyan-raju.netlify.app/)
 ---
 
 ## 🎯 My Coding Philosophy
